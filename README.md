@@ -1,6 +1,5 @@
-![homepage](https://docs.python.org/3/_static/py.png)
 
-# [HOW TO BASIC TKINTER](https://www.youtube.com/watch?v=6wNetztNV10)
+# [HOW TO BASIC TKINTER](https://www.youtube.com/watch?v=6wNetztNV10) ![homepage](https://docs.python.org/3/_static/py.png)
 
  - Root
  - Button
